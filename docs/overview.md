@@ -7,3 +7,4 @@ Summary of this presentation are here:
 3. [Deploying your application faster and safer](deploy.md)
 4. [Modernizing your application with containers and serverless](modernizing.md)
 5. [Consolidating infrastructure with Azure Kubernetes Service](consolidating.md)
+6. [Summary](summary.md)

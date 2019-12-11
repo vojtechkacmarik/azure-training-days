@@ -27,7 +27,7 @@ Virtual machines
 Container filesystem
 - Layered approach (immutable, in case some change is created then new layer introduced)
 - Same layers shared
-- Container is 'state-less', it can be stopped (killed) or started everytime, everywhere
+- Container is 'state-less', it can be stopped (killed) or started everytime, everywhere => 'ephemeral'
   - application should be designed for that
 - 'volume' - some changes can be writed to filesystem 
 
