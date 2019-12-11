@@ -42,3 +42,5 @@ Azure Pipelines
 - Service Principal in case that account in Azure Portal and Azure DevOps are different
 - **HINT**: Deploy using Deployment slots, swap slot (enable slot when all tasks finished)
   - use task 'Invoke REST API request' after Deploy to start web app
+
+Next chapter: [Modernizing your application with containers and serverless](modernizing.md)
