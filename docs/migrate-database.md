@@ -34,6 +34,6 @@ Database options in Azure:
   - add Firewall settings directly to Azure SQL Database using public API
   - direct access to Azure SQL database from SSMS
 
-HINT: Tool **az** for provision powershell scripts, e.g. for simple duplications of existing Azure configuration
+**HINT**: Tool **az** for provision powershell scripts, e.g. for simple duplications of existing Azure configuration
 
-Next chapter: [Deploy web aplications to Azure](deploy.md)
+Next chapter: [Deploying your application faster and safer](deploy.md)

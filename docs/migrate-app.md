@@ -54,6 +54,6 @@ Azure App Service
      - WebJobs can be triggered by Message from Queue
      - **HINT**: not for big amount of Messages or frequently messages, instead use **Azure Service Bus**
  
-HINT: Cloud Explorer in Visual Studio
+**HINT**: Cloud Explorer in Visual Studio
 
 Next chapter: [Moving your database to Azure](migrate-database.md)

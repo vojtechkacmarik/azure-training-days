@@ -1,4 +1,4 @@
-#  Deploy web aplications to Azure
+#  Deploying your application faster and safer
 
 ## DevOps
 
@@ -35,10 +35,10 @@ Azure Pipelines
 - Release agent
   - can also be installed on target server
 - YAML description for pipeline definition
-- HINT: **Git is recommended**
+- **HINT**: **Git is recommended**
 - Publish WebJob using Arguments -o /app_data/Jobs/Continuous
-- HINT: MacOS build agent is available for use in Azure DevOps
+- **HINT**: MacOS build agent is available for use in Azure DevOps
 - Pre-deployment conditions
 - Service Principal in case that account in Azure Portal and Azure DevOps are different
-- HINT: Deploy using Deployment slots, swap slot (enable slot when all tasks finished)
+- **HINT**: Deploy using Deployment slots, swap slot (enable slot when all tasks finished)
   - use task 'Invoke REST API request' after Deploy to start web app
