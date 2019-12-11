@@ -9,4 +9,6 @@ Summary
 - You can use containers to run isolated workloads
 - You can use Kubernetes to orchestrate container-based solutions
 
+see [Notes](notes.md)
+
 https://github.com/tomasherceg/speaking-AzureWebMigration

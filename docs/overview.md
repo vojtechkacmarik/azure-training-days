@@ -8,3 +8,4 @@ Summary of this presentation are here:
 4. [Modernizing your application with containers and serverless](modernizing.md)
 5. [Consolidating infrastructure with Azure Kubernetes Service](consolidating.md)
 6. [Summary](summary.md)
+7. [Notes](notes.md)
